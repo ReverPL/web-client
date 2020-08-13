@@ -12,7 +12,7 @@ const Home = () => {
         korero
       </Header>
       <Header.Subheader as="p" className="animated fadeInLeft delay-1s">
-        A simple, open-source chat application.
+        Poznawaj nowych ludzi poprzez pisanie na serwerach.
       </Header.Subheader>
 
       <Grid columns={4} stackable>
